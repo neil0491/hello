@@ -1,0 +1,805 @@
+#EXTM3U
+#EXTINF:-1 group-title="Другое",360
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Другое",5 канал international
+https://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
+#EXTINF:-1 group-title="Другое",Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Другое",Fashion & Lifestyle
+https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
+#EXTINF:-1 group-title="Другое",MMA-TV.COM
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Другое",Киноман
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="Другое",МИР 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Другое",Первый космический
+https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
+#EXTINF:-1 group-title="Другое",ТВ-3 Беларусь
+https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 group-title="Другое",ТНТ International
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 group-title="Другое",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6246.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9E%D0%9D%D0%A2%20BY.png" channelId="347" tvg-id="ont-by",ОНТ Беларусь
+https://strm.yandex.ru/kal/ont_belarus/ont_belarus0.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/428a333ff9e1f3f8c84c33c0f68e076e.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/436bcb7225d0ca22e9a0c01c6d5da362.png" channelId="350" tvg-id="rtr-belarus",РТР Беларусь
+https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/06/25d1fb58b4485b50501e58df4aa30448.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/06/98df76884f82f0f9c61fc644d64aa351.png" channelId="346" tvg-id="belarus1",Беларусь 1
+https://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/06/312dd6855a4bd11b08de68a0eb9c6e9f.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/06/94296a1d7c4eb1ca9eea9a3a7459a453.png" channelId="346" tvg-id="belarus2",Беларусь 2
+https://strm.yandex.ru/kal/belarus_2/belarus_20.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/06/81203e9e68d896a5d18c7be68849273d.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/06/5c7879cf9b8a243c5ff9fec978dc348b.png" channelId="346" tvg-id="belarus3",Беларусь 3
+https://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/5dab35325703523a14a5e14bff2da665.jpg" logo="http://epg.openboxfan.com/picon/%D0%BD%D1%82%D0%B2%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.png" channelId="349" tvg-id="ntv-belarus",НТВ Беларусь
+https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://img.prosto.tv/storage/channel/logo" channelId="182" tvg-id="tiji",Tiji
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/9de54386efb3533c8858f1f7ebbd46c7.jpg" logo="http://overlay.iptvin.site/epg/PIC/%D0%9C%D1%83%D0%BB%D1%8C%D1%82.png" channelId="1722" tvg-id="mult",Мульт
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/cbf10781013b9e9473c8b1430aa15d62.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/8c7b698bd668d8afd1eb1a89be1f44c8.png" channelId="3556" tvg-id="v-gostiax-u-skazki",В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/e0dd874cdff84fff612ed64f089ee84e.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/d0dab507986f02bfa356d01482eeffef.png" channelId="5210" tvg-id="baby-time",Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/4cb56b365d341b49616bd671747ed6ff.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/c8bc685a60a9e4df35a584848cc6e773.png" channelId="186" tvg-id="multimania",Мультиландия
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e855e1662477502880cdb21275e50c32.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/6a5f245bacd0269d818867389e3ed4bb.png" channelId="183" tvg-id="gulli-girl",Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/f77fc1e10ceb39b04a18af3d3b10d4a5.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/439f566e211c3de7ae9ec7caee85ca15.png" channelId="513" tvg-id="ducktv",Duck TV
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/5b2cfe86de6ca8068c39f225c642989c.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%A0%D1%8B%D0%B6%D0%B8%D0%B9.png" channelId="2798" tvg-id="ryzhy",Рыжий
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/a99fd561da669a2b9573b459675befc7.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/7ee4e494540e532af714d1221951bce0.png" channelId="2674" tvg-id="ginger-hd",Капитан Фантастика
+https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/ZJXX8KM/Lyova-220x220.png" logo="https://i.ibb.co/NmcXrpc/Lyova-220x132-tr.png" channelId="5191" tvg-id="liova",Лёва
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://www.lyngsat.com/logo/tv/num/360-degree-novosti-ru.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/3e82094d6f3e932a27d8d6d90c86ccd4.png" channelId="3976" tvg-id="360-news",360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17108.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/0ba59c77f212a9d6e101fd24ba1299f0.png" channelId="3920" tvg-id="hollywood-hd",Hollywood HD
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/071e65cbe8a2065c737c617c04a79565.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png" channelId="3160" tvg-id="ntv-serial",НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/b781b52ad6757cc1d92a3f6b9b1e7dde.png" logo="http://overlay.iptvin.site/epg/PIC/Bollywood.png" channelId="2802" tvg-id="bollywood-hd",Bollywood
+https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e93d2c79526c93b504177635d66e8c17.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png" channelId="3162" tvg-id="ntv-pravo",НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/c34e63bd524a6cebfa54c385342caf38.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/0ecf6a300e56cce6d0113438d28f140e.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_2D9_7_70_1680000_0_0_0.png" channelId="193" tvg-id="tvxxi",TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/1b64fa715c1bd78ccdfc29330110cc84.png" channelId="168" tvg-id="indiyskoe-kino",Индийское кино
+https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3760972577fd4e2a04f286e143d08520.png" channelId="169" tvg-id="muzhskoe-kino",Мужское кино
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5fc7f9642a6404366bc5ded89985fd60.png" channelId="316" tvg-id="rodnoe-kino",Родное кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/70add95c7fd31a9cb4465189b8afb8c6.png" channelId="195" tvg-id="kinoseria",Киносерия
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/925189ef3496a4da729e4cc78f0c704e.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB%20HD.png" channelId="1039" tvg-id="arsenaltv" shift="3",Арсенал
+https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/aec3fe86e065282f04440c7200195241.png" logo="https://satsis.info/uploads/posts/2018-07/1532600127_www.satsis.info__ntv-hit.png" channelId="3865" tvg-id="ntv-xit",НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b34ef04769aa6b12cfe1408097b35a40.png" channelId="413" tvg-id="kinosvidanie",Киносвидание
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d15a6dc12a4aa8198d6a48549a262be1.png" channelId="409" tvg-id="kinoxit",Кинохит
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/f37646838419385697673b8a7ca040e4.png" channelId="194" tvg-id="kinokomedia",Кинокомедия
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/f42e796c2f5355783b49ba5162b4f1e7.png" channelId="568" tvg-id="kinosemiya",Киносемья
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/5ebf72dd5afbad0f4e24aaab6915d899.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/569e72085cef47f9b69845251b1dd1a6.png" channelId="-1" tvg-id="timeless-dizi",Timeless Dizi Channel
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/75cba7c36cdbfdb0fc4e546d9abf249f.png" channelId="270" tvg-id="kinomiks",Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinopremera_hd.png" channelId="410" tvg-id="kinopremiera-hd",Кинопремьера
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" channelId="315" tvg-id="nashe-novoe-kino",Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272" tvg-id="nst",НСТ
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/123.png" channelId="285" tvg-id="zhara",Жара
+https://strm.yandex.ru/kal/ot_rassveta_do_zakata_zhara/ot_rassveta_do_zakata_zhara0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1818.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_71A_12_70_1680000_0_0_0.png" channelId="536" tvg-id="bridge-tv-dance",Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2118.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/46e8f3801d7e757e999a0607193e7c1b.png" channelId="1816" tvg-id="bridge-tv-classic",Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2119.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_71E_12_70_1680000_0_0_0.png" channelId="484" tvg-id="bridge-tv-ruxit",Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2206.png" logo="https://i115.fastpic.org/big/2021/0914/0d/e8155855e79178a4fdf78948dc76a50d.png" channelId="3164" tvg-id="bridge-hd",Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/98bc42e071ff11a5fb34ee6af6f3305e.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/b841642eecff0786121dd234628d7172.png" channelId="25" tvg-id="bridge-tv",Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/02ede7e2be336050187e7047e8a43065.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/317fe31acd6100613a6ffc76f2f33a8e.png" channelId="28" tvg-id="russian-musicbox",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/02ede7e2be336050187e7047e8a43065.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/317fe31acd6100613a6ffc76f2f33a8e.png" channelId="28" tvg-id="russian-musicbox",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/39d51feb1bf0e97becf6ca7e778b8777.jpg" logo="https://i115.fastpic.org/big/2021/0914/df/ba3211d66bccb92f2a1d0483298b70df.png" channelId="150" tvg-id="la-minor",Ля-минор
+https://strm.yandex.ru/kal/la_minor_belarus/la_minor_belarus0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/72a456a71aa3f75afdf14fa8614080bc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/5fb36503ff93133d3f5afc917ab6ec5b.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
+https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fc6ea1d726cf975a31031663a63812de.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/52873f2660bc5857b1dfd339c791f476.png" channelId="-1" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.ibb.co/kSx2Zc5/logo-black-letters-400x400.jpg" logo="http://infoua.biz/image/tv/stream/belmuz.png" channelId="812" tvg-id="belmuztv",БелМузТВ
+https://strm.yandex.ru/kal/belmuztv/belmuztv0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-music-box-tv-6963-300x225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/c8000e391406d02e35f375ea5a50c1c0.png" channelId="3921" tvg-id="musicbox",MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-ru-tv-moldova-3978.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_714_12_70_1680000_0_0_0.png" channelId="45" tvg-id="ru-tv",RU.TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-tnt-music-5304-300x225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/a2b0bef273f59be8613ea726c448ccfa.png" channelId="24" tvg-id="tnt-music",ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://glaz-ok.online/wp-content/uploads/2018/05/kuhnya-tv.jpg" logo="http://overlay.iptvin.site/epg/PIC/%D0%9A%D1%83%D1%85%D0%BD%D1%8F%20%D0%A2%D0%92.png" channelId="75" tvg-id="kuxnia-tv",Кухня ТВ
+https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
+https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/109.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_6D_1_70_1680000_0_0_0.png" channelId="174" tvg-id="kto-est-kto",Кто есть кто
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/117.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_75_1_70_1680000_0_0_0.png" channelId="160" tvg-id="nostalgia",Ностальгия
+https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6537.png" logo="https://i115.fastpic.org/big/2021/0914/e5/8bc59005741158f5f4a3253d3aa9ade5.png" channelId="3923" tvg-id="nasha-sibir-4k",Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/27cfeeb71d0af02ad27014493988a393.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%95%D0%B4%D0%B0%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD.png" channelId="232" tvg-id="eda-hd",Еда Премиум
+https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2b6b5145a6b1b1937d5a0f84dd890f6d.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png" channelId="173" tvg-id="nauka-20",Наука 2.0
+https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/49669dab9c868229a4b05971edebe178.jpg" logo="http://overlay.iptvin.site/epg/PIC/%D0%92%20%D0%BC%D0%B8%D1%80%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85%20HD.png" channelId="3974" tvg-id="v-mire-zhivotnyx-hd",В мире животных
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/f29c66c9aeabb21b8c209337d4ebd17a.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/77523699d7ed019c7c93c7331cb22df3.png" channelId="162" tvg-id="texno-24",Т24
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/7910461f1308810e12c1daafd799b2dc.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/04/036f2038742c1463076663c80e418c8a.png" channelId="3925" tvg-id="prikluchenia-hd",Приключения HD
+https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://crimeastar.net/iptv-logos/79.png" channelId="325" tvg-id="zagorodnaya-zhizn",Загородная жизнь
+https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/rtghd_black.png" logo="http://overlay.iptvin.site/epg/PIC/RTG%20HD.png" channelId="1494" tvg-id="rtg-hd",RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/1KJV9Cp/83a793e5fc9bc4ef6e4bec00a55b8269.jpg" logo="http://epg.openboxfan.com/picon/365днейтв.png" channelId="52" tvg-id="365-dnej",365 Дней ТВ
+https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/rxH4fKn/62bcef63161bfa34367b8541f9fa3ef0.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_4AB2_13_70_1680000_0_0_0.png" channelId="252" tvg-id="ocean-tv",Ocean TV
+https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg" logo="http://overlay.iptvin.site/epg/PIC/%D0%9C%D0%BE%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD.png" channelId="53" tvg-id="moya-planeta",Моя Планета
+https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1537.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_19_2F47_C_70_1680000_0_0_0.png" channelId="234" tvg-id="hd-life",HD Life
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj2gd-PyJniMs0cTSz93Mst2dgCtZE0yrnfGGWT=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://tv.tivix.co/uploads/posts/2019-02/1549003983_galaxy.png" channelId="391" tvg-id="galaxy-tv",Galaxy TV
+https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/2105.png" logo="http://epg.openboxfan.com/picon/диалогиорыбалке.png" channelId="3709" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6224.png" logo="http://epg.openboxfan.com/picon/%D0%B6%D0%B8%D0%B2%D0%B8.png" channelId="76" tvg-id="zhivi",Живи
+https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/358939849f755b769ed63060857128ea.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/6af0402151028746a625767550547828.png" channelId="323" tvg-id="muzhskoy",Мужской
+https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/993c01671434c522a2f58e382f0c3b33.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png" channelId="3161" tvg-id="ntv-style",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/101ba3240b39ea79d033c16228c53a40.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_7C_1_70_1680000_0_0_0.png" channelId="3047" tvg-id="kvn-tv",КВН ТВ
+https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d9ba327d2618e3f2b43cee76742b4401.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/49614803d2ad33cd89bb80a0930eb4d9.png" channelId="23" tvg-id="yu",Ю
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/024614b06bdfdc2444ef5229fab8773c.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/22654940aeed4b5e8654e5c870d2915a.png" channelId="14" tvg-id="2na2",2x2
+https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/78301c5421bd47855a62261fd7e6eb10.png" channelId="280" tvg-id="fashion-tv",Fashion TV
+https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/VgJcsj2/5d526f1f50b3c5bad276c99b3af2520a.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_1A3_4_70_1680000_0_0_0.png" channelId="141" tvg-id="sarafan",Сарафан
+https://strm.yandex.ru/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://s9.vcdn.biz/static/f/1960084701/image.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/96835a864806217b1f41a820a805dc8c.png" channelId="-1" tvg-id="oxotnik-i-rybolov-int",Охотник и рыболов Int
+https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 group-title="Россия региoнальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/ad7fc4c5f2177ff9b8e7ae13617a359d.png" logo="http://overlay.iptvin.site/epg/PIC/360%20(%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA).png" channelId="-1",СТВ
+https://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/06/bb0fe67f7ce64c04706db96b2eccdd2e.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/06/a45aed909a51d78c8119320ae6c356ae.png" channelId="138" tvg-id="mir",МИР
+https://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/422.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_1A6_4_70_1680000_0_0_0.png" channelId="1827" tvg-id="box-tv",Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/a29e2f9379a81cff3ff939e30ef15e16.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/2d6a14e457510412f70808d1f3921fd6.png" channelId="80" tvg-id="kxl",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/d2360201b7ecc3975c3982437a50c0c5.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/c2cc6917a06db06aa1b2274b84dafa48.png" channelId="226" tvg-id="kxl-hd",KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7147f40fcb04ee4d091bdb4f01f87e63.png" logo="https://otv.one/uploads/tv_image/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-5-hd.png" channelId="1511" tvg-id="belarus5",Беларусь 5
+https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/9dc44b5959bd754f0482f80581b9d279.png" channelId="154" tvg-id="russky-ekstrim",Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/55ab75d899eb43237d81b92550e8facc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/cce5521fa046b377b6212ea5feb6bc58.png" channelId="631" tvg-id="start",Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/c5543d97d9de1f0c5b47af2bc61dfde3.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/606c67c47bd76f04a8d02c5ec67f72d8.png" channelId="5189" tvg-id="start-triumf",Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/c646578298e9349525513ff85cc08ab7.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/b79b8c3bf962462989e320ffe2373617.png" channelId="919" tvg-id="football-ru",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/cf249e65252b5b396c7abe91006ccd99.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/718e7c96fd3d57b161daf4b3a5c238ae.png" channelId="447" tvg-id="match-planeta",Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+
+#EXTINF:-1 group-title="Другое",.RED
+https://ucdn.beetv.kz/btv/live/hls/000000213.m3u8
+#EXTINF:-1 group-title="Другое",.SCI-FI
+https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
+#EXTINF:-1 group-title="Другое",5 канал Караганда
+https://ucdn.beetv.kz/btv/live/hls/000000950.m3u8
+
+
+#EXTINF:-1 group-title="Другое",.RED
+
+https://ucdn.beetv.kz/btv/live/hls/000000213.m3u8
+#EXTINF:-1 group-title="Другое",.SCI-FI
+
+https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
+#EXTINF:-1 group-title="Другое",5 канал Караганда
+
+https://ucdn.beetv.kz/btv/live/hls/000000950.m3u8
+#EXTINF:-1 group-title="Другое",Cartoonito
+
+https://ucdn.beetv.kz/btv/live/hls/000000160.m3u8
+#EXTINF:-1 group-title="Другое",LIVE
+
+https://ucdn.beetv.kz/btv/live/hls/000002851.m3u8
+#EXTINF:-1 group-title="Другое",MCM TOP
+
+https://ucdn.beetv.kz/btv/live/hls/000000327.m3u8
+#EXTINF:-1 group-title="Другое",MTV
+
+https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
+#EXTINF:-1 group-title="Другое",MTV 00
+
+https://ucdn.beetv.kz/btv/live/hls/000000264.m3u8
+#EXTINF:-1 group-title="Другое",Mz Muzzone
+
+https://ucdn.beetv.kz/btv/live/hls/000000783.m3u8
+#EXTINF:-1 group-title="Другое",N/A
+
+https://ucdn.beetv.kz/btv/live/hls/000000939.m3u8
+#EXTINF:-1 group-title="Другое",NAT GEO
+
+https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
+#EXTINF:-1 group-title="Другое",NICK JR
+
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+#EXTINF:-1 group-title="Другое",TBK 6
+
+https://ucdn.beetv.kz/btv/live/hls/000001516.m3u8
+#EXTINF:-1 group-title="Другое",TDK 42
+
+https://ucdn.beetv.kz/btv/live/hls/000001507.m3u8
+#EXTINF:-1 group-title="Другое",TIJI
+
+https://ucdn.beetv.kz/btv/live/hls/000000174.m3u8
+#EXTINF:-1 group-title="Другое",Vip Comedy
+
+https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
+#EXTINF:-1 group-title="Другое",Vip Megahit
+
+https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
+#EXTINF:-1 group-title="Другое",Vip Premiere
+
+https://ucdn.beetv.kz/btv/live/hls/000000868.m3u8
+#EXTINF:-1 group-title="Другое",АВТО 24
+
+https://ucdn.beetv.kz/btv/live/hls/000000815.m3u8
+#EXTINF:-1 group-title="Другое",Анекдот Тв
+
+https://ucdn.beetv.kz/btv/live/hls/000001921.m3u8
+#EXTINF:-1 group-title="Другое",Астана Тв
+
+https://ucdn.beetv.kz/btv/live/hls/000000666.m3u8
+#EXTINF:-1 group-title="Другое",В Гостях У Сказки
+
+https://ucdn.beetv.kz/btv/live/hls/000002762.m3u8
+#EXTINF:-1 group-title="Другое",Ваш Успех
+
+https://ucdn.beetv.kz/btv/live/hls/000000288.m3u8
+#EXTINF:-1 group-title="Другое",Глазами Туриста
+
+https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
+#EXTINF:-1 group-title="Другое",ЕДА
+
+https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
+#EXTINF:-1 group-title="Другое",Загородняя Жизнь
+
+https://ucdn.beetv.kz/btv/live/hls/000000289.m3u8
+#EXTINF:-1 group-title="Другое",Здоровое Тв
+
+https://ucdn.beetv.kz/btv/live/hls/000000057.m3u8
+#EXTINF:-1 group-title="Другое",Зоопарк
+
+https://ucdn.beetv.kz/btv/live/hls/000000260.m3u8
+#EXTINF:-1 group-title="Другое",КТО КУДА
+
+https://ucdn.beetv.kz/btv/live/hls/000001377.m3u8
+#EXTINF:-1 group-title="Другое",Кино Боевик
+
+https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
+#EXTINF:-1 group-title="Другое",Мировое кино
+
+https://ucdn.beetv.kz/btv/live/hls/000008488.m3u8
+#EXTINF:-1 group-title="Другое",НТВ-МИР
+
+https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
+#EXTINF:-1 group-title="Другое",Новое Тв
+
+https://ucdn.beetv.kz/btv/live/hls/000001380.m3u8
+#EXTINF:-1 group-title="Другое",О
+
+https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
+#EXTINF:-1 group-title="Другое",Охотник Рыболов
+
+https://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
+#EXTINF:-1 group-title="Другое",Первый космический
+
+https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
+#EXTINF:-1 group-title="Другое",Поехали
+
+https://ucdn.beetv.kz/btv/live/hls/000002991.m3u8
+#EXTINF:-1 group-title="Другое",Премиум кино
+
+https://ucdn.beetv.kz/btv/live/hls/000008491.m3u8
+#EXTINF:-1 group-title="Другое",Россия Ртр
+
+https://ucdn.beetv.kz/btv/live/hls/000000812.m3u8
+#EXTINF:-1 group-title="Другое",Рыбалка и Охота
+
+https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
+#EXTINF:-1 group-title="Другое",ТНТ 4
+
+https://ucdn.beetv.kz/btv/live/hls/000002926.m3u8
+#EXTINF:-1 group-title="Другое",Шансон Тв
+
+https://ucdn.beetv.kz/btv/live/hls/000000210.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://getsiptv.ru/img/ch_icons/belarus_24.png" logo="https://otv.one/uploads/tv_image/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-24-hd.png" channelId="296" tvg-id="belarus24",Беларусь 24
+
+https://ucdn.beetv.kz/btv/live/hls/000000360.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/802.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_322_8_70_168AFFC_0_0_0.png" channelId="40" tvg-id="cartoon-network",Cartoon Network
+
+https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" tvg-id="karusel",Карусель
+
+https://ucdn.beetv.kz/btv/live/hls/000000781.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/0195680ec15144a8eacf4e5527ee31ce.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%A3%D0%BD%D0%B8%D0%BA%D1%83%D0%BC%20HD.png" channelId="192" tvg-id="detsky",Уникум
+
+https://ucdn.beetv.kz/btv/live/hls/000000048.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/9de54386efb3533c8858f1f7ebbd46c7.jpg" logo="http://overlay.iptvin.site/epg/PIC/%D0%9C%D1%83%D0%BB%D1%8C%D1%82.png" channelId="1722" tvg-id="mult",Мульт
+
+https://ucdn.beetv.kz/btv/live/hls/000001207.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/2bd4c8af1670253241e51f8df33cb8a0.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/d5b1c880e0c2fdc576be6604a67a0233.png" channelId="39" tvg-id="detsky-mir",Детский мир
+
+https://ucdn.beetv.kz/btv/live/hls/000000049.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e855e1662477502880cdb21275e50c32.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/6a5f245bacd0269d818867389e3ed4bb.png" channelId="183" tvg-id="gulli-girl",Gulli Girl
+
+https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/3a558e4de99cc970633ac390001ce3a2.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/f315e5e4d45e6464f4bed52aadd01d1a.png" channelId="171" tvg-id="da-vinci",Da Vinci
+
+https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/a99fd561da669a2b9573b459675befc7.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/7ee4e494540e532af714d1221951bce0.png" channelId="2674" tvg-id="ginger-hd",Капитан Фантастика
+
+https://ucdn.beetv.kz/btv/live/hls/000001474.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/wQb93ZB/Vb-Hi-U4b2-400x400.jpg" logo="http://overlay.iptvin.site/epg/PIC/Nickelodeon.png" channelId="41" tvg-id="nickelodeon-ru",Nickelodeon
+
+https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
+
+https://ucdn.beetv.kz/btv/live/hls/000000198.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_525_D_70_1680000_0_0_0.png" channelId="9" tvg-id="rbk",РБК
+
+https://ucdn.beetv.kz/btv/live/hls/000000091.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://stv.ee/images/chlogos/Logo_new.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/43deb4eabc184ace07fc7116a8884cc3.png" channelId="405" tvg-id="rtvi",RTVI
+
+https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/14325e495cd8a53ca3c1_250x250c.jpg" logo="http://overlay.iptvin.site/epg/PIC/Setanta%20Qazaqstan.png" channelId="4841" tvg-id="setanta-kz",Setanta Qazaqstan
+
+https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo-KTK-2018_RGB.png/1200px-Logo-KTK-2018_RGB.png" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo-KTK-2018_RGB.png/1200px-Logo-KTK-2018_RGB.png" channelId="1135" tvg-id="ktk-kz",КТК
+
+https://ucdn.beetv.kz/btv/live/hls/000000672.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00200.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/2f27d85958fffd37126a14c58d281401.png" channelId="3919" tvg-id="hollywood",Hollywood
+
+https://ucdn.beetv.kz/btv/live/hls/000000031.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://kis.lt/wp-content/uploads/2020/12/09d3683d4142756343249e4479f72889.jpg" logo="https://cdnua03.hls.tv/cdn/logo/8b934a7891a83fe2c16bd526a24e2e7b_high.png" channelId="314" tvg-id="lubimoe-kino",Наше Любимое Кино
+
+https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0275.png" logo="https://antifriz.tv/storage/images/channel_logos/evrokino-hd.png" channelId="79" tvg-id="evrokino",Еврокино
+
+https://ucdn.beetv.kz/btv/live/hls/000000152.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5535.png" logo="http://fenixplus.tv/bitrix/templates/main/images/logo_for_web.png" channelId="197" tvg-id="feniks-plus-kino",Феникс+Кино
+
+https://ucdn.beetv.kz/btv/live/hls/000000125.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/071e65cbe8a2065c737c617c04a79565.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png" channelId="3160" tvg-id="ntv-serial",НТВ Сериал
+
+https://ucdn.beetv.kz/btv/live/hls/000002760.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e93d2c79526c93b504177635d66e8c17.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png" channelId="3162" tvg-id="ntv-pravo",НТВ Право
+
+https://ucdn.beetv.kz/btv/live/hls/000002759.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/c34e63bd524a6cebfa54c385342caf38.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema
+
+https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/0ecf6a300e56cce6d0113438d28f140e.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_2D9_7_70_1680000_0_0_0.png" channelId="193" tvg-id="tvxxi",TV XXI
+
+https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/9d8f609c2c25654723ed63403310b6b8.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/5e2021c4e358903e655b189b18ee3847.png" channelId="312" tvg-id="mir-seriala",Мир Сериала
+
+https://ucdn.beetv.kz/btv/live/hls/000000319.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e0cdac03eb4335550594fa9a5903f25a.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/06e06f7bfc6345c83a1e15ac8de5695c.png" channelId="914" tvg-id="amedia2",Amedia 2
+
+https://ucdn.beetv.kz/btv/live/hls/000000351.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e5ac9c34ff5a9c9193ec8de6f085e6f6.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/be606f0d79f6cab7ce3518783eaf18c5.png" channelId="5173" tvg-id="sony-turbo",.Black
+
+https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/21cc336366e3d103a1990d9f8e5d3cfd.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/119834ba72e6420055ed54a81e66415c.png" channelId="2657" tvg-id="domkino-premium",Дом Кино Премиум
+
+https://ucdn.beetv.kz/btv/live/hls/000002943.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://tv.kubtel.ru/tv_icon/domkino.png" logo="http://teledays.net/images/dom_kino.png" channelId="68" tvg-id="domkino",ДОМ КИНО
+
+https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/W52VMR4/29b4f5a39af47616cbcf4e3bfd8588a7.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_4AAE_13_70_1680000_0_0_0.png" channelId="1699" tvg-id="paramount-comedy",Paramount Comedy
+
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272" tvg-id="nst",НСТ
+
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/0256.png" logo="http://overlay.iptvin.site/epg/PIC/1HD%20Music.png" channelId="1476" tvg-id="1hd",1HD
+
+https://ucdn.beetv.kz/btv/live/hls/000001020.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1313.png" channelId="136" tvg-id="muztv",МУЗ ТВ
+
+https://ucdn.beetv.kz/btv/live/hls/000000073.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/823.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_337_8_70_168AFFC_0_0_0.png" channelId="148" tvg-id="muzyka-pervogo",Музыка Первого
+
+https://ucdn.beetv.kz/btv/live/hls/000000204.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/0903aa4f0c9c7b3a1935f59ee4116876.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/b39822a6bc9ac22c44e2b8740c697961.png" channelId="43" tvg-id="mezzo",Mezzo
+
+https://ucdn.beetv.kz/btv/live/hls/000000030.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-tnt-music-5304-300x225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/a2b0bef273f59be8613ea726c448ccfa.png" channelId="24" tvg-id="tnt-music",ТНТ Music
+
+https://ucdn.beetv.kz/btv/live/hls/000000013.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-%D0%A2%D0%B0%D0%B9%D0%BD%D1%8B-%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-HD.png" channelId="391" tvg-id="galaxy-tv",Galaxy
+
+https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0203.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/8f394a15e2d7ab2fbd41cfebbdeb2890.png" channelId="207" tvg-id="national-geographic",National Geographic HD
+
+https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0205.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/83315b3988ce2e44f1c4344be2dca8e0.png" channelId="1202" tvg-id="h2",H2 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/19112.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5.png" channelId="249" tvg-id="domashnie-zhivotnye",Домашние животные
+
+https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/20101.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/aa21a9d116939defb19bd5d33c0037de.png" channelId="206" tvg-id="nat-geo-wild",Nat Geo Wild HD
+
+https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6262.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.png" channelId="250" tvg-id="voprosy-i-otvety",Вопросы и ответы
+
+https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/eb2a2bfec5fc4d89ef5e6efa803f1650.png" channelId="50" tvg-id="animal-planet",Animal Planet
+
+https://ucdn.beetv.kz/btv/live/hls/000000216.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/af72230194eddb410d6ea4fac270f0b0.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_338_8_70_168AFFC_0_0_0.png" channelId="161" tvg-id="telekafe",Телекафе
+
+https://ucdn.beetv.kz/btv/live/hls/000000206.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5fe8fb21186a0feac4afe421c04a564d.png" logo="https://i115.fastpic.org/big/2021/0914/38/23ad3af058423f8340f88d4a6da02838.png" channelId="389" tvg-id="zagorodny",Загородный
+
+https://ucdn.beetv.kz/btv/live/hls/000000235.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7ab5f2afd592dc6342959b577268a180.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%A2%D0%92.png" channelId="3955" tvg-id="centralnoye-tv",Центральное телевидение
+
+https://ucdn.beetv.kz/btv/live/hls/000001880.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c6c8b884708cf33e850d86140187e810.jpg" logo="http://overlay.iptvin.site/epg/PIC/%D0%91%D0%BE%D0%B1%D1%91%D1%80.png" channelId="646" tvg-id="bobior",Бобер
+
+https://ucdn.beetv.kz/btv/live/hls/000001478.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/ea841b1dbdf0789308327d1881f699f3.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/39aec5850e4c6b136898ca267f0eee4b.png" channelId="3880" tvg-id="pervy-vegetariansky",Первый вегетарианский
+
+https://ucdn.beetv.kz/btv/live/hls/000002927.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/6200924b19732165b2a726565e3d95fc.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/8e3c457dde53e3dd1313474d487082e4.png" channelId="57" tvg-id="discovery-channel",Discovery Channel
+
+https://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/c87b53d741efe4a65fc8b50c61e7f5c0.png" logo="http://overlay.iptvin.site/epg/PIC/Discovery%20Channel%20HD.png" channelId="341" tvg-id="discovery-channel",Discovery Channel HD
+
+https://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/f29c66c9aeabb21b8c209337d4ebd17a.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/77523699d7ed019c7c93c7331cb22df3.png" channelId="162" tvg-id="texno-24",Техно 24
+
+https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/ffd80a61b0b221d3c75b9759825211fc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/9355113d807a6a04d9b7172c2199d2d2.png" channelId="1815" tvg-id="zhivaya-priroda",Живая Природа
+
+https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/39e22e8381e78d02e76053afa8e03393.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/eb6362d2b92345229b1d2be201ab34de.png" channelId="176" tvg-id="vremia",Время
+
+https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/7910461f1308810e12c1daafd799b2dc.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/04/036f2038742c1463076663c80e418c8a.png" channelId="3925" tvg-id="prikluchenia-hd",Приключения HD
+
+https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://www.oreol.tv/img/psyhologia.jpg" channelId="251" tvg-id="psixologia-21",Психология 21
+
+https://ucdn.beetv.kz/btv/live/hls/000000147.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/7859/brand.gif" logo="http://epg.openboxfan.com/picon/historyhd.png" channelId="1456" tvg-id="history-ru",History HD
+
+https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия К
+
+https://ucdn.beetv.kz/btv/live/hls/000000066.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/GskmkLP/db5ff41244b8dbe5f8f597580b29f1b3.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
+
+https://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg" logo="http://overlay.iptvin.site/epg/PIC/%D0%9C%D0%BE%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD.png" channelId="53" tvg-id="moya-planeta",Моя Планета
+
+https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/358939849f755b769ed63060857128ea.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/6af0402151028746a625767550547828.png" channelId="323" tvg-id="muzhskoy",Мужской
+
+https://ucdn.beetv.kz/btv/live/hls/000000286.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/993c01671434c522a2f58e382f0c3b33.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png" channelId="3161" tvg-id="ntv-style",НТВ Стиль
+
+https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
+
+https://ucdn.beetv.kz/btv/live/hls/000000428.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3b7cbbc273158300b31762e42580fa7c.jpg" logo="http://overlay.iptvin.site/epg/PIC/TLC.png" channelId="67" tvg-id="tlc",TLC
+
+https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+
+https://ucdn.beetv.kz/btv/live/hls/000001480.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/846f5a9d2e3c14af82148272b3b79b27.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_1A7_4_70_1680000_0_0_0.png" channelId="3875" tvg-id="e-tv",E TV
+
+https://ucdn.beetv.kz/btv/live/hls/000002721.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/a29004ecad0e6037318684c6f2ac37ac.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/6efb826c851c5538f60b3542a6e737b2.png" channelId="2909" tvg-id="perec-int",Перец
+
+https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1183.jpg" channelId="36" tvg-id="8kanal-ru",8 канал
+
+https://ucdn.beetv.kz/btv/live/hls/000001564.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244" tvg-id="spas",СПАС
+
+https://ucdn.beetv.kz/btv/live/hls/000000247.m3u8
+#EXTINF:-1 group-title="Россия региoнальные" tvg-logo="https://epg.domru.ru/chlogo/1474881688.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%A2%D0%9D%D0%92-%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png" channelId="1485" tvg-id="tnv-planeta",ТНВ-Планета
+
+https://ucdn.beetv.kz/btv/live/hls/000000418.m3u8
+#EXTINF:-1 group-title="Россия региoнальные" tvg-logo="https://picon.ml/31-kanal-chelyabinsk.png" channelId="-1" tvg-id="31-kanal-chelyabinsk",31 канал
+
+https://ucdn.beetv.kz/btv/live/hls/000000663.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" tvg-id="rentv",РЕН ТВ
+
+https://ucdn.beetv.kz/btv/live/hls/000002472.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
+
+https://ucdn.beetv.kz/btv/live/hls/000001227.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="http://overlay.iptvin.site/epg/PIC/TVCENTR.png" channelId="13" tvg-id="tvcentr",ТВЦ
+
+https://ucdn.beetv.kz/btv/live/hls/000000112.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5568.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/b130a25ae0694fbc209ee245fd101e7a.png" channelId="1383" tvg-name="Viasat Sport" tvg-id="viasat-sport",Viasat Sport HD
+
+https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2c84a67c0936f98193268429ae153048.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/20451635d55ed95e124915d606068cb4.png" channelId="933" tvg-id="eurosport2-ru",Eurosport 2 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2c84a67c0936f98193268429ae153048.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/20451635d55ed95e124915d606068cb4.png" channelId="933" tvg-id="eurosport2-ru",Eurosport 2 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/379e35160e2f64024f9facb67621cfbc.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/f03204750140d099910ffcc15b89de26.png" channelId="225" tvg-id="eurosport1-ru",Eurosport 1 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/379e35160e2f64024f9facb67621cfbc.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/f03204750140d099910ffcc15b89de26.png" channelId="225" tvg-id="eurosport1-ru",Eurosport 1 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/0f0f980a78fb2df029c38ceac4265105.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/938d5b25e6e89631175a7c77e3f36918.png" channelId="4848" tvg-id="setanta-sports",Setanta Sports 1 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/ee06a729ee812dc59b8f33d9deb126e0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/c1eb2dd0be9de9c5fa45b272e63b9fbe.png" channelId="4849" tvg-name="Setanta Sports 2" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/ee06a729ee812dc59b8f33d9deb126e0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/c1eb2dd0be9de9c5fa45b272e63b9fbe.png" channelId="4849" tvg-name="Setanta Sports 2" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
+
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+
+
+
+#EXTINF:-1 group-title="Другое",1Filmax
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:-1 group-title="Другое",2Filmax
+https://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:-1 group-title="Другое",AlMahom
+https://hls.goodgame.ru/hls/46071.m3u8
+#EXTINF:-1 group-title="Другое",Futurama
+https://hls.goodgame.ru/hls/199417.m3u8
+#EXTINF:-1 group-title="Другое",Hot Beats TV HD
+https://hls.goodgame.ru/hls/191858.m3u8
+#EXTINF:-1 group-title="Другое",Mega Radio
+https://hls.goodgame.ru/hls/175789.m3u8
+#EXTINF:-1 group-title="Другое",Neldoreth
+https://hls.goodgame.ru/hls/33245.m3u8
+#EXTINF:-1 group-title="Другое",Opergamer
+https://hls.goodgame.ru/hls/15389.m3u8
+#EXTINF:-1 group-title="Другое",SeriesTV
+https://hls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 group-title="Другое",TDM TV - FMC
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 group-title="Другое",TMF RUS
+https://hls.goodgame.ru/hls/201891.m3u8
+#EXTINF:-1 group-title="Другое",Techno Dance Music
+https://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 group-title="Другое",Utan
+https://hls.goodgame.ru/hls/136091.m3u8
+#EXTINF:-1 group-title="Другое",Звуки дождя 24/7
+https://hls.goodgame.ru/hls/198378.m3u8
+#EXTINF:-1 group-title="Другое",Лесной HD
+https://hls.goodgame.ru/hls/131315.m3u8
+#EXTINF:-1 group-title="Другое",Мультики и Сказки HD
+https://hls.goodgame.ru/hls/198446.m3u8
+#EXTINF:-1 group-title="Другое",Нирея (Гомель)
+https://hls.goodgame.ru/hls/165177.m3u8
+#EXTINF:-1 group-title="Другое",Ностальжи
+https://hls.goodgame.ru/hls/199415.m3u8
+#EXTINF:-1 group-title="Другое",Первый Городской (Гомель)
+https://hls.goodgame.ru/hls/165178.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/6304.png" logo="http://overlay.iptvin.site/epg/PIC/FAN HD.png" channelId="3926" tvg-id="fanhd",FAN HD
+https://hls.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/6a4870f9fa3c396c3c97f988349303a1.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/d0c50f88fa1a8ec809c3e3afed56b649.png" channelId="-1",Страх HD
+https://hls.goodgame.ru/hls/202127.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/fec17b2f317eef85d4c952be7a406bae.png" channelId="-1",Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/68fe9494c2e0a0b6ad2a78da428db5e8.png" logo="https://i114.fastpic.ru/big/2021/0513/bc/cc3999bbe7de88ce79e493088e816ebc.png" channelId="-1",FILM TV
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/2ab1957a86173bbc6d751fa1ba6a0b42.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/f2b33d21b7296dfc7f42f16456eb6907.png" channelId="-1",Фантастика HD
+https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/c37fdd476e83d75f53b2d79acf508aff.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/90014deedaa559903f3e5b5159559b33.png" channelId="-1",SCR TV HD
+https://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://sc2tv.ru/images/profile/273629/avatar.jpg" channelId="-1",Видеосалон VHS
+https://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/a6cc044ef1271e950c8dcfdeab9b0510.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d19a659896cae2d3ec401cad3f23e4f6.png" channelId="984" tvg-id="viva-rus",VIVA Russia
+https://hls.goodgame.ru/hls/180805.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Другое",365 ДНЕЙ
+
+https://tbs01-edge17.itdc.ge/365day/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Abkhaz HD
+
+https://tbs01-edge17.itdc.ge/abkhaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Egrisi TV
+
+https://tbs01-edge17.itdc.ge/egrisitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",MMA-TV.COM
+
+https://tbs01-edge17.itdc.ge/m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Music Box
+
+https://tbs01-edge17.itdc.ge/musicbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Music TV HD
+
+https://tbs01-edge17.itdc.ge/musictv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Nwbctv
+
+https://tbs01-edge17.itdc.ge/nwbctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Setanta Sports 1 GE
+
+http://tbs01-edge17.itdc.ge/setanta_georgia/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Другое",Setanta Sports 2 GE
+
+http://tbs01-edge11.itdc.ge/setanta_sports_plus_georgia/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Другое",Stereoplus
+
+https://tbs01-edge17.itdc.ge/stereoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Vip Family
+
+https://tbs01-edge17.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",АВТО 24
+
+https://tbs01-edge17.itdc.ge/auto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",АВТО ПЛЮС
+
+https://tbs01-edge17.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",БОКС ТВ
+
+https://tbs01-edge17.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Зоопарк
+
+https://tbs01-edge17.itdc.ge/zoo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",КТО ЕСТЬ КТО
+
+https://tbs01-edge17.itdc.ge/ktoestkto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",Кухня Тв
+
+https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другое",МИР 24
+
+https://tbs01-edge17.itdc.ge/mir24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/0195680ec15144a8eacf4e5527ee31ce.png" logo="http://overlay.iptvin.site/epg/PIC/%D0%A3%D0%BD%D0%B8%D0%BA%D1%83%D0%BC%20HD.png" channelId="192" tvg-id="detsky",Уникум
+
+https://tbs01-edge17.itdc.ge/detsky/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/2bd4c8af1670253241e51f8df33cb8a0.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/d5b1c880e0c2fdc576be6604a67a0233.png" channelId="39" tvg-id="detsky-mir",Детский мир
+
+https://tbs01-edge17.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/3a558e4de99cc970633ac390001ce3a2.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/f315e5e4d45e6464f4bed52aadd01d1a.png" channelId="171" tvg-id="da-vinci",Da Vinci
+
+https://tbs01-edge17.itdc.ge/davinci/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0275.png" logo="https://antifriz.tv/storage/images/channel_logos/evrokino-hd.png" channelId="79" tvg-id="evrokino",Еврокино
+
+https://tbs01-edge17.itdc.ge/eurokino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/01/5821f49e18db5cfd8e7d640b0168851c.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/01/a5509c5edc842e74d96d5723d963dd23.png" channelId="65" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
+
+https://tbs01-edge17.itdc.ge/tv1000rukino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/70add95c7fd31a9cb4465189b8afb8c6.png" channelId="195" tvg-id="kinoseria",Киносерия
+
+https://tbs01-edge17.itdc.ge/kinoseria/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/80d2a646697ec86b47d9df3e7e7b3eac.png" logo="https://i115.fastpic.org/big/2021/0914/52/a7d4ef67085f8a7d8a49ee73cf7fd752.png" channelId="1859" tvg-id="kinouzhas",Киноужас
+
+https://tbs01-edge17.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c8b30d683b4f1881895989af50746019.png" channelId="410" tvg-id="kinopremiera-hd",Кинопремьера HD
+
+https://tbs01-edge17.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d15a6dc12a4aa8198d6a48549a262be1.png" channelId="409" tvg-id="kinoxit",Кинохит
+
+https://tbs01-edge17.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/dd102f2e312d18da98418d60cff15ff4.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/b79ebeb62c27cecebcde476b4aea8dca.png" channelId="253" tvg-id="zee-tv",Индия
+
+https://tbs01-edge17.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/84d11acae275f9c0a12e14ee6cf352b6.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/3ebeb6a5f37e095df2006060d7b0c907.png" channelId="913" tvg-id="amedia1",Amedia 1
+
+https://tbs01-edge17.itdc.ge/amedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/05/a5c487f71b5ae29220f9a6dc2faeb741.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/05/49dd91d5aec30501928147d42d794821.png" channelId="190" tvg-id="illuzion-plus",Иллюзион+
+
+https://tbs01-edge17.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" logo="https://antifriz.tv/storage/images/channel_logos/russkij-iluzion.png" channelId="189" tvg-id="russky-illuzion",Русский Иллюзион
+
+https://tbs01-edge17.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1173.jpg" logo="https://antifriz.tv/storage/images/channel_logos/muzhskoe-kino.png" channelId="169" tvg-id="muzhskoe-kino",Мужское Кино
+
+https://tbs01-edge17.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/276.jpg" logo="http://teledays.net/images/indijskoe-kino.png" channelId="168" tvg-id="indiyskoe-kino",Индийское Кино
+
+https://tbs01-edge17.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-tnt-music-5304-300x225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/a2b0bef273f59be8613ea726c448ccfa.png" channelId="24" tvg-id="tnt-music",ТНТ Music
+
+https://tbs01-edge17.itdc.ge/rutv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/117.png" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_75_1_70_1680000_0_0_0.png" channelId="160" tvg-id="nostalgia",Ностальгия
+
+https://tbs01-edge17.itdc.ge/nostalgy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://zala.by/sites/default/files/imagecache/film_poster/tv_channels/logos/tehno24.png" channelId="162" tvg-id="texno-24",24 Техно
+
+https://tbs01-edge17.itdc.ge/24techno/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/GskmkLP/db5ff41244b8dbe5f8f597580b29f1b3.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
+
+https://tbs01-edge17.itdc.ge/oruzhie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1537.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_19_2F47_C_70_1680000_0_0_0.png" channelId="234" tvg-id="hd-life",HD Life
+
+https://tbs01-edge17.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/viasat-explorer.png" logo="http://overlay.iptvin.site/epg/PIC/Viasat%20Explore.png" channelId="165" tvg-id="viasat-explore",Viasat Explore
+
+https://tbs01-edge17.itdc.ge/viasatexp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/viasat-history.png" logo="http://overlay.iptvin.site/epg/PIC/Viasat%20History%20HD.png" channelId="166" tvg-id="viasat-history",Viasat History
+
+https://tbs01-edge17.itdc.ge/viasathist/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/viasat-nature.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/6cec7deb361cf3309ebd4eec41073161.png" channelId="172" tvg-id="viasat-nature",Viasat Nature
+
+https://tbs01-edge17.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5a32ed55590036318513e82b6295b378.png" channelId="26" tvg-id="piatnica",Пятница
+
+https://tbs01-edge17.itdc.ge/friday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
+
+https://tbs01-edge17.itdc.ge/ctctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="http://overlay.iptvin.site/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" tvg-id="domashny",Домашний
+
+https://tbs01-edge17.itdc.ge/domashni/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/a29004ecad0e6037318684c6f2ac37ac.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/6efb826c851c5538f60b3542a6e737b2.png" channelId="2909" tvg-id="perec-int",Перец
+
+https://tbs01-edge17.itdc.ge/perec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" tvg-id="rentv",РЕН ТВ
+
+https://tbs01-edge17.itdc.ge/rentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/06/bb0fe67f7ce64c04706db96b2eccdd2e.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/06/a45aed909a51d78c8119320ae6c356ae.png" channelId="138" tvg-id="mir",МИР
+
+https://tbs01-edge17.itdc.ge/mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
+
+https://tbs01-edge17.itdc.ge/ort/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="http://overlay.iptvin.site/epg/PIC/TVCENTR.png" channelId="13" tvg-id="tvcentr",ТВЦ
+
+https://tbs01-edge17.itdc.ge/tvc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/0f0f980a78fb2df029c38ceac4265105.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/938d5b25e6e89631175a7c77e3f36918.png" channelId="4848" tvg-id="setanta-sports",Setanta Sports 1 HD
+
+http://tbs01-edge17.itdc.ge/setanta_georgia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/ee06a729ee812dc59b8f33d9deb126e0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/c1eb2dd0be9de9c5fa45b272e63b9fbe.png" channelId="4849" tvg-name="Setanta Sports 2" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
+
+http://tbs01-edge11.itdc.ge/setanta_sports_plus_georgia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/cf249e65252b5b396c7abe91006ccd99.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/718e7c96fd3d57b161daf4b3a5c238ae.png" channelId="447" tvg-id="match-planeta",Матч! Планета
+
+https://tbs01-edge17.itdc.ge/matchplaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/374d9dc14fb004e67d4e5d0205eb8a97.jpg" logo="http://overlay.iptvin.site/epg/PIC/Viasat%20Sport.png" channelId="155" tvg-id="viasat-sport",Viasat Sport
+
+https://tbs01-edge17.itdc.ge/viasatsport/tracks-v1a1/mono.m3u8

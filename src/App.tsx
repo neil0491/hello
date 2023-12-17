@@ -5,6 +5,8 @@ import { ParseM3U } from "https://cdn.jsdelivr.net/gh/MarketingPipeline/IPTV-Par
 import { Playlist, PlaylistItem } from "iptv-playlist-parser";
 import ChannelImage from "./components/ChannelImage/ChannelImage";
 
+const URL = "https://iptv-org.github.io/api/";
+
 function App() {
   const playerRef = useRef<HTMLVideoElement>(null);
   const [url, seturl] = useState<string>("");

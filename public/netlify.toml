@@ -2,7 +2,7 @@
   for = "/*"
   status = 200
   [headers.values]
-    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Origin = "localhost"
 	cache-control = '''
 	max-age=604800,
 	no-cache,

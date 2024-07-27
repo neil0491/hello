@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="TEST ⓵",Первый Канал HD
+https://st1.uzdigital.tv/Perviy_KanalHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru",Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 tvg-id="Russia24.ru",Россия 24
@@ -8,10 +10,508 @@ https://player.smotrim.ru/iframe/stream/live_id/21
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-id="NTV.ru",НТВ
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="One.ru",Первый
-https://s2.viks.tv/oyexKF6prsQaMbJQady0mA/540/1721480652/index.m3u8
-#EXTINF:-1 tvg-id="star.ru",Звезда
-https://a5.pokaz.me/a-yL1OBb3QpBgLknQXymPQ/125/1721480729/index.m3u8
+
+#EXTINF:-1 group-title="Rutube",Первый канал HD
+https://salam-2-6.rutube.ru/dive/river-3-318.rutube.ru/rdH9d3TegjIY1hzxecZJiQ/stream/genetta-332.m9.rutube.ru/zddNrTlml_50vKI50yNe3Q/1722630083/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",НТВ HD
+https://salam-2.rutube.ru/dive/river-3-312.rutube.ru/LLPiJAiv7off10otzybDLg/stream/genetta-512.ost.rutube.ru/7Mg5Xdq6fqbHyPuitN8twQ/1722630146/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",ТНТ HD
+https://salam-mskth-12.rutube.ru/dive/river-3-303.rutube.ru/OkWHik5aEPGv6Eo4jeodTw/stream/genetta-324.m9.rutube.ru/CIhvflcZukH27Dh80b_i9A/1722679311/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-id="oxotnik-i-rybolov-int",Охотник и рыболов
+https://salam-2.rutube.ru/dive/river-3-315.rutube.ru/6uPgfTNg2Sqd-cgVqoqJCg/stream/genetta-513.ost.rutube.ru/JlIwyea27kzilRCe7qGKIQ/1722628708/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-id="zagorodny-int",Загородный International
+https://salam-2.rutube.ru/dive/river-3-311.rutube.ru/XGpXVpPGfj-5ZSVO_MoFZg/stream/genetta-518.ost.rutube.ru/C-gwhBI6HvjScDPUqw1YpA/1722629148/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",Суббота
+https://salam-2.rutube.ru/dive/river-5-515.rutube.ru/_4nbUaTC-vD4UBAP5oDDNg/stream/genetta-304.m9.rutube.ru/6a_cWyc6roMVYv7RRs2CsA/1722629043/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",78 канал
+https://river-3-312.rutube.ru/stream/genetta-316.m9.rutube.ru/rLX_AQ1Wnn8rRoyexJXbjw/1722629271/bbf23277dbd0dd0e6a623526d4c3f8c9/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",ОТС HD
+https://river-5-513.rutube.ru/stream/genetta-334.m9.rutube.ru/FL1u2IEO_uusj8rogsq8rw/1722629441/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",Волга
+https://river-3-311.rutube.ru/stream/musang-702.brz.rutube.ru/f8FF7OPYyV7FP--SP_QbuA/1722629511/bed2dcda74004e4e9a61966d2848c027/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",Краснодар HD
+https://river-3-312.rutube.ru/stream/genetta-320.m9.rutube.ru/jxRpHrUvJEWtobzWNV6lzw/1722630879/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",БелРос
+https://salam-2-6.rutube.ru/dive/river-5-513.rutube.ru/WA106buFtW7JEUb_mZdpyw/stream/genetta-318.m9.rutube.ru/snBnk8gWwF659A3ZDwtwxQ/1722629691/46c03b7f1a7255326900f4a60a9b44e0/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",Вместе-РФ
+https://salam-2-6.rutube.ru/dive/river-3-303.rutube.ru/FCcW0cZ-E-p8au2Gxu_lNg/stream/genetta-322.m9.rutube.ru/9TPQ00Ly_gDWCmqEBi_hWA/1722629743/f6a6d5c955180d0d0f80c66d0b6150d3/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",Истоки Орёл
+https://river-3-320.rutube.ru/stream/genetta-327.m9.rutube.ru/bDzj-PgAktl9OpI03su8pw/1722629797/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",Смайлик ТВ
+https://salam-2-6.rutube.ru/dive/river-3-313.rutube.ru/QmFVVVd6c46cNHYUYNe-pA/stream/genetta-330.m9.rutube.ru/94QAz2GcDfISvwq-XlgxcQ/1722629900/2f052691c75d72b3ed7f3c33ea956a41/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",Буряад ТВ
+https://river-3-301.rutube.ru/stream/genetta-327.m9.rutube.ru/CGlcxibNia2XqVhkEkI9Bg/1722629975/55fec7f2c11f4decc66568fca39f26b2/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",ТНТ Music
+https://salam-2-6.rutube.ru/dive/river-3-314.rutube.ru/xhdonoMSDzIqtzoIEYMC1A/stream/genetta-530.ost.rutube.ru/52_dr3fBtYuVyeuXNLqwMQ/1722628943/f5ba23a0149f409c18168231844e0a3b/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube",VIVA Russia HD
+https://river-3-312.rutube.ru/stream/genetta-318.m9.rutube.ru/aTM_kuBJY60bKLetsDj1qg/1722629642/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
+
+
+
+#EXTINF:-1 group-title="Interhost Communication",Россия 24
+http://stream.rutvportal.com:8085/Rossia24/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",ТНТ4 HD
+http://stream.rutvportal.com:8085/TNT4HD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Рен ТВ HD
+http://stream.rutvportal.com:8085/RenTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",ТНТ HD
+http://stream.rutvportal.com:8085/TNTHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",НТВ HD
+http://stream.rutvportal.com:8085/NTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",НТВ Хит
+http://stream.rutvportal.com:8085/NTVHitHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",НТВ Право
+http://stream.rutvportal.com:8085/NTVPravo/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",НТВ Стиль
+http://stream.rutvportal.com:8085/NTVStilHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",НТВ-Мир
+http://stream.rutvportal.com:8085/NTVMir/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Animal Planet HD
+http://stream.rutvportal.com:8085/AnimalPlanetHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Discovery Channel HD
+http://stream.rutvportal.com:8085/DiscoveryChannelHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",H2 HD
+http://stream.rutvportal.com:8085/History2HD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",History HD
+http://stream.rutvportal.com:8085/HistoryHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Нано ТВ HD
+http://stream.rutvportal.com:8085/NanoHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Viasat Nature HD
+http://stream.rutvportal.com:8085/VijuNatureHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Viasat History HD
+http://stream.rutvportal.com:8085/VijuHistoryHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Viasat Explore HD
+http://stream.rutvportal.com:8085/VijuExploreHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Home 4K
+http://stream.rutvportal.com:8085/Home4K/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Love Nature 4K
+http://stream.rutvportal.com:8085/LoveNature4K/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Nat Geo Wild HD
+http://stream.rutvportal.com:8085/NatGeoWildHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",National Geographic HD
+http://stream.rutvportal.com:8085/NationalGeographicHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",RTG HD
+http://stream.rutvportal.com:8085/RTGHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",RTG TV
+http://stream.rutvportal.com:8085/RTGTV/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Дикая рыбалка HD
+http://stream.rutvportal.com:8085/DikayaRybalkaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Дикая охота HD
+http://stream.rutvportal.com:8085/DikayaOhotaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Глазами туриста HD
+http://stream.rutvportal.com:8085/GlazamyTuristaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Техно 24
+http://stream.rutvportal.com:8085/T24/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",История
+http://stream.rutvportal.com:8085/Istoria/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Точка отрыва
+http://stream.rutvportal.com:8085/TochkaOtriva/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Моя планета HD
+http://stream.rutvportal.com:8085/MoyaPlanetaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Travel Channel HD
+http://stream.rutvportal.com:8085/TravelChannelHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Живая природа HD
+http://stream.rutvportal.com:8085/ZhivayaPrirodaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Домашние животные
+http://stream.rutvportal.com:8085/DomashnieZhivotnie/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Ocean TV
+http://stream.rutvportal.com:8085/OceanTV/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Пятый канал
+http://stream.rutvportal.com:8085/5kanal/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Amedia Hit HD
+http://stream.rutvportal.com:8085/AmediaHitHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Amedia Premium HD
+http://stream.rutvportal.com:8085/AmediaPremiumHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Дорама HD
+http://stream.rutvportal.com:8085/DoramaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Романтичное HD
+http://stream.rutvportal.com:8085/RomantichnoeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Про любовь HD
+http://stream.rutvportal.com:8085/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мир Сериала
+http://stream.rutvportal.com:8085/MirSerialaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Поехали!
+http://stream.rutvportal.com:8085/PoehaliHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Арсенал HD
+http://stream.rutvportal.com:8085/ArsenalHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Авто 24
+http://stream.rutvportal.com:8085/Auto24HD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Авто плюс
+http://stream.rutvportal.com:8085/AutoPlusHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Че
+http://stream.rutvportal.com:8085/Che/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Квартал ТВ
+http://stream.rutvportal.com:8085/KvartalTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Домашний
+http://stream.rutvportal.com:8085/DomashniyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Дождь
+http://stream.rutvportal.com:8085/DozhdHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Дом Кино
+http://stream.rutvportal.com:8085/DomKino/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Cinema HD
+http://stream.rutvportal.com:8085/CinemaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Epic Drama HD
+http://stream.rutvportal.com:8085/EpicDramaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Перец
+http://stream.rutvportal.com:8085/PeretsInt/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",FilmBox
+http://stream.rutvportal.com:8085/FilmBox/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",FOX HD
+http://stream.rutvportal.com:8085/FOXHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",FOX Life
+http://stream.rutvportal.com:8085/FOXLifeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Хит HD
+http://stream.rutvportal.com:8085/HitHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU СССР HD
+http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Marvel HD
+http://stream.rutvportal.com:8085/BCUMarvelHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Comedy HD
+http://stream.rutvportal.com:8085/BCUComedyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Fantastic HD
+http://stream.rutvportal.com:8085/BCUFantasticHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Action HD
+http://stream.rutvportal.com:8085/BCUActionHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Catastrophe HD
+http://stream.rutvportal.com:8085/BCUCatastropheHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Comedy HD
+http://stream.rutvportal.com:8085/BCUComedyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU History HD
+http://stream.rutvportal.com:8085/BCUHistoryHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Kinorating HD
+http://stream.rutvportal.com:8085/BCUKinoratingHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Premiere HD
+http://stream.rutvportal.com:8085/BCUPremiereHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Romantic HD
+http://stream.rutvportal.com:8085/BCURomanticHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Russian HD
+http://stream.rutvportal.com:8085/BCURussianHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU VHS HD
+http://stream.rutvportal.com:8085/BCUVHSHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Stars HD
+http://stream.rutvportal.com:8085/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Ultra 4K
+http://stream.rutvportal.com:8085/BCUUltra4K/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Cinema HD
+http://stream.rutvportal.com:8085/BCUCinemaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Kids HD
+http://stream.rutvportal.com:8085/BCUKidsHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Kids+ HD
+http://stream.rutvportal.com:8085/BCUKidsPlusHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Criminal HD
+http://stream.rutvportal.com:8085/BCUCriminalHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Fantastic HD
+http://stream.rutvportal.com:8085/BCUFantasticHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU TruMotion HD
+http://stream.rutvportal.com:8085/BCUTruMotionHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Reality HD
+http://stream.rutvportal.com:8085/BCURealityHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Survival HD
+http://stream.rutvportal.com:8085/BCUSurvivalHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Cosmo HD
+http://stream.rutvportal.com:8085/BCUCosmoHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Box Ghost HD
+http://stream.rutvportal.com:8085/BCUMediaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Hollywood HD
+http://stream.rutvportal.com:8085/HollywoodHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Bollywood HD
+http://stream.rutvportal.com:8085/BollywoodHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Усадьба
+http://stream.rutvportal.com:8085/Usadba/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Здоровое ТВ
+http://stream.rutvportal.com:8085/ZdorovoeTV/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Кинохит HD
+http://stream.rutvportal.com:8085/KinoHitHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Кинокомедия HD
+http://stream.rutvportal.com:8085/KinokomediaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Киномикс HD
+http://stream.rutvportal.com:8085/KinomixHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Кинопремьера HD
+http://stream.rutvportal.com:8085/KinopremieraHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Киносемья HD
+http://stream.rutvportal.com:8085/KinosemyaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Киносерия HD
+http://stream.rutvportal.com:8085/KinoseriaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Киноужас HD
+http://stream.rutvportal.com:8085/KinouzhasHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Комедийное HD
+http://stream.rutvportal.com:8085/KomediynoeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мужское кино
+http://stream.rutvportal.com:8085/MuzhskoeKinoHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Родное кино
+http://stream.rutvportal.com:8085/RodnoeKino/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Кино ТВ HD
+http://stream.rutvportal.com:8085/KinoTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Камеди HD
+http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Кто есть кто
+http://stream.rutvportal.com:8085/KtoEstKto/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",КВН ТВ
+http://stream.rutvportal.com:8085/KVNTV/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Euronews HD
+http://tinyurl.com/TvZaTako/EuronewsHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мосфильм. Золотая коллекция HD
+http://stream.rutvportal.com:8085/MosfilmHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мужской
+http://stream.rutvportal.com:8085/Muzhskoy/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Ностальгия
+http://stream.rutvportal.com:8085/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Оружие
+http://stream.rutvportal.com:8085/Oruzhie/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",FashionBox
+http://stream.rutvportal.com:8085/FashionBoxHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Наше HD
+http://stream.rutvportal.com:8085/NasheHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Остросюжетное HD
+http://stream.rutvportal.com:8085/ShokiruyusheeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Душевное HD
+http://stream.rutvportal.com:8085/DushevnoeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Русская комедия
+http://stream.rutvportal.com:8085/RusskayaKomedia/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Остросюжетное HD
+http://stream.rutvportal.com:8085/OstrosuzhetnoeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Планета РТР
+http://stream.rutvportal.com:8085/PlanetaRTR/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Победа HD
+http://stream.rutvportal.com:8085/PobedaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",День победы
+http://stream.rutvportal.com:8085/DenPobedyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Дом Кино Премиум
+http://stream.rutvportal.com:8085/DomKinoPremiumHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Премиальное HD
+http://stream.rutvportal.com:8085/PremialnoeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Ретро
+http://stream.rutvportal.com:8085/Retro/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Shot TV HD
+http://stream.rutvportal.com:8085/ShotTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Russia Today
+http://stream.rutvportal.com:8085/RussiaToday/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Сарафан
+http://stream.rutvportal.com:8085/Sarafan/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Top Secret
+http://stream.rutvportal.com:8085/SovershennoSekretno/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",СТС
+http://stream.rutvportal.com:8085/STSHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Суббота
+http://stream.rutvportal.com:8085/SubbotaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Channel 9 IL
+http://stream.rutvportal.com:8085/9kanalHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Moldova 1 HD MD
+http://stream.rutvportal.com:8085/Moldova1HD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",2+2 UA
+http://stream.rutvportal.com:8085/2plus2HD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",1+1 Україна HD
+http://stream.rutvportal.com:8085/1plus1HD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",ICTV HD
+http://stream.rutvportal.com:8085/ICTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Новий канал HD
+http://stream.rutvportal.com:8085/NoviyKanalHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мега HD
+http://stream.rutvportal.com:8085/MegaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Телекафе
+http://stream.rutvportal.com:8085/TeleKafe/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",TLC HD
+http://stream.rutvportal.com:8085/TLCHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",RTVI
+http://stream.rutvportal.com:8085/RTViHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",TV21
+http://stream.rutvportal.com:8085/TV21/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Зоопарк
+http://stream.rutvportal.com:8085/ZooPark/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Звезда
+http://stream.rutvportal.com:8085/ZvezdaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",ТНТ Music
+http://stream.rutvportal.com:8085/TNTMusic/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Bridge TV Classic
+http://stream.rutvportal.com:8085/BridgeClassic/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Bridge TV Русский Хит
+http://tinyurl.com/TvZaTako/BridgeRusskiyHit/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Bridge TV Classic
+http://stream.rutvportal.com:8085/BridgeClassic/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Bridge TV Hits
+http://tinyurl.com/TvZaTako/BridgeHitsHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Шансон ТВ
+http://stream.rutvportal.com:8085/ShansonTV/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Ля-Минор
+http://stream.rutvportal.com:8085/LaMinor/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Mezzo
+http://stream.rutvportal.com:8085/Mezzo/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Mezzo Live HD
+http://stream.rutvportal.com:8085/MezzoLiveHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",MTV 80s
+http://stream.rutvportal.com:8085/MTV80s/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",MTV 90s
+http://stream.rutvportal.com:8085/MTV90s/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",MTV 00s
+http://stream.rutvportal.com:8085/MTV00s/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",MTV Hits
+http://stream.rutvportal.com:8085/MTVHits/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",MTV Live HD
+http://stream.rutvportal.com:8085/MTVLiveHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Европа плюс ТВ
+http://stream.rutvportal.com:8085/EuropaPlusHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",JimJam
+http://stream.rutvportal.com:8085/JimJam/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",TiJi
+http://stream.rutvportal.com:8085/TiJi/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Nick Jr
+http://stream.rutvportal.com:8085/NickJr/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Уникум HD
+http://stream.rutvportal.com:8085/UnikumHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Nickelodeon HD
+http://stream.rutvportal.com:8085/NickelodeonHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мульт HD
+http://stream.rutvportal.com:8085/MultHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мама
+http://stream.rutvportal.com:8085/Mama/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Bolt
+http://stream.rutvportal.com:8085/BoltHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Карусель
+http://stream.rutvportal.com:8085/KaruselHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Gulli Girl
+http://stream.rutvportal.com:8085/GulliGirl/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",JimJam
+http://stream.rutvportal.com:8085/JimJam/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Бобёр
+http://stream.rutvportal.com:8085/Bober/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Cartoon Network HD
+http://stream.rutvportal.com:8085/CartoonNetworkHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",СТС Kids HD
+http://stream.rutvportal.com:8085/STSKidsHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Ani
+http://stream.rutvportal.com:8085/Ani/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
+http://stream.rutvportal.com:8085/KHLPrimeHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+http://stream.rutvportal.com:8085/KHLHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
+http://stream.rutvportal.com:8085/BoxTV/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт HD
+http://stream.rutvportal.com:8085/StartHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Удар HD
+http://stream.rutvportal.com:8085/UDARHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://stream.rutvportal.com:8085/MatchPremierHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Мир баскетбола
+http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
+http://stream.rutvportal.com:8085/BoxTV/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://stream.rutvportal.com:8085/Eurosport1HD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
+http://stream.rutvportal.com:8085/Eurosport2HD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
+http://stream.rutvportal.com:8085/KHLHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
+http://stream.rutvportal.com:8085/MatchFutbol1HD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
+http://stream.rutvportal.com:8085/MatchFutbol2HD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
+http://stream.rutvportal.com:8085/MatchFutbol3HD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://stream.rutvportal.com:8085/MatchTVHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
+http://stream.rutvportal.com:8085/MatchIgraHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
+http://stream.rutvportal.com:8085/MatchArenaHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Старана HD
+http://stream.rutvportal.com:8085/MatchStranaHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
+http://stream.rutvportal.com:8085/MatchPlaneta/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 1 UA
+http://stream.rutvportal.com:8085/Sport1Ukraina/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 2 UA
+http://stream.rutvportal.com:8085/Sport2Ukraina/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
+http://stream.rutvportal.com:8085/SetantaSports1HD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
+http://stream.rutvportal.com:8085/SetantaSports2HD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Fight Box HD
+http://stream.rutvportal.com:8085/FightBoxHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Ukraine Plus HD
+http://stream.rutvportal.com:8085/SetantaSportsPlusUAHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Ukraine HD
+http://stream.rutvportal.com:8085/SetantaSportsUAHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Super Tennis HD
+http://stream.rutvportal.com:8085/SuperTennisHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",XSPORT Plus HD UA
+http://tinyurl.com/TvZaTako/XSportHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Мир баскетбола
+http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Кинозалы",Cobra Comedy HD
+http://158.101.194.132:8888/channel/61817e7f/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Cobra Detektiv HD
+http://158.101.194.132:8888/channel/n73225250/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Cobra Drama HD
+http://158.101.194.132:8888/channel/n7defe4c7/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Cobra Melodrama HD
+http://158.101.194.132:8888/channel/2d7a5354/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Cobra Thriller HD
+http://158.101.194.132:8888/channel/56064960/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop Mylt UA
+http://158.101.194.132:8888/channel/n4efa3560/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Cinema 4K
+http://158.101.194.132:8888/channel/n10f341e0/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Cinema 60 FPS
+http://158.101.194.132:8888/channel/23d816c/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Cinema Best HD
+http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Comedy HD
+http://158.101.194.132:8888/channel/28f9a7dd/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Criminal HD
+http://158.101.194.132:8888/channel/n6a9f2cad/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Detektiv HD
+http://158.101.194.132:8888/channel/56f0f78e/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Deutsche
+http://158.101.194.132:8888/channel/773a0af3/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Docu HD
+http://158.101.194.132:8888/channel/7f457439/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Fantazy HD
+http://158.101.194.132:8888/channel/33cfa803/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV HD UA
+http://158.101.194.132:8888/channel/n78ab16b6/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Hard&Heavy Concerts HD
+http://158.101.194.132:8888/channel/ae10061/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Hip Hop
+http://158.101.194.132:8888/channel/49327692/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV History HD
+http://158.101.194.132:8888/channel/n22a100b2/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Horror HD
+http://158.101.194.132:8888/channel/2d95cf2c/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Kids HD
+http://158.101.194.132:8888/channel/n189ed1f7/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Kung Fu
+http://158.101.194.132:8888/channel/n39d33fa/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Music
+http://158.101.194.132:8888/channel/n784d20e1/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Netflix HD
+http://158.101.194.132:8888/channel/n3c4df870/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV New Films HD
+http://158.101.194.132:8888/channel/75ddabb3/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Peters Pop Show
+http://158.101.194.132:8888/channel/3638c03f/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Serial HD
+http://158.101.194.132:8888/channel/6d9732a2/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Show HD
+http://158.101.194.132:8888/channel/n7284fc87/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Simpsons HD UA
+http://158.101.194.132:8888/channel/n40bba810/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Вторая мировая
+http://158.101.194.132:8888/channel/22d781ee/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Кулинар
+http://158.101.194.132:8888/channel/2aaa0761/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Масяня
+http://158.101.194.132:8888/channel/24c9981a/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Мульт HD UA
+http://158.101.194.132:8888/channel/57079c14/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Сказки СССР
+http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+
+
 
 
 
@@ -35,6 +535,96 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru",НТВ Хит
 https://cdn.ntv.ru/th_style/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Точка отрыва
+https://st1.uzdigital.tv/Tochka_Otriva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Техно 24
+https://st1.uzdigital.tv/Tehno_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Русский Детектив
+https://st1.uzdigital.tv/RusskiyDetektiv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Авто 24
+https://st1.uzdigital.tv/Avto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",TiJi
+https://st1.uzdigital.tv/TiJi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Nickelodeon
+https://st1.uzdigital.tv/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Мульт HD
+https://st1.uzdigital.tv/MultHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Мультиландия
+https://st1.uzdigital.tv/Multilandiya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",МузТВ
+https://st1.uzdigital.tv/test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema 
+https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
+https://iptv.itv.uz/hls/live/t/HNkqYEnnr5I4pOs9Utt2Iw/e/1780568011/4001/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",National Geographic
+https://tv.movielab.pro/143/index.m3u8?token=dfadcab35ad6cf4c68f5eea8c803f2685e3b9ec3-c45a0291e690c4aabe8c3a967bf83f65-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild
+https://tv.movielab.pro/162/index.m3u8?token=df93bfb8ae96a1a927a79cb6920689aace984ab4-0d074ba74aee465093fb576dde911990-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵",Discovery Channel HD
+https://tv.movielab.pro/147/index.m3u8?token=3d57b04c88202c819ef1ed446a6ad0b972e15288-12357c555d191b708ec5d385d517793e-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵",Setanta Sports 1
+https://tv.movielab.pro/942/index.m3u8?token=0ee623af140b04cb7f5dc1974ff0cd4b0c0ab2b5-c632e52e019b8cfff6b5b259f72489d9-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵",Setanta Sports 2
+https://tv.movielab.pro/943/index.m3u8?token=5f3431026a7dbd4588274f17128f756493ea4910-f606d4aab945f771a19974b14f0e3bea-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵",Setanta Sports+ HD
+https://tv.movielab.pro/5094/index.m3u8?token=6b65a508f2f4a0d6262eb57d043c9bf659bf045b-cd29cdaf99d9c625c9a0b4707b12be3c-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵",Eurosport 1 HD
+https://tv.movielab.pro/145/index.m3u8?token=a71ad1babfb0d47a7dca3dc23d080c779ffa034e-d00154c3a30bfae2942d9df77b806b9c-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵",NBA TV HD
+https://tv.movielab.pro/9984/index.m3u8?token=de619c0d1ec2667db3c9671331d8718af68237a1-a6e918091378597ef9dbabbc28f2cb40-1722111827-1722025427
+#EXTINF:-1 group-title="TEST ⓵", TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Th1WYqd98YOXRdc9QVhd9A&e=1722844800&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵" ,TV1000
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=iYYtvXS6UTYY1_KDKObTeg&e=1722844731&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=-NWZ04UaXBQo-G2wOzAUKw&e=1722844852&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
+http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="TEST ⓵",VIP Premiere HD
+rtmp://185.26.157.3/live//vip_premiere_hd
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/HWNnL7LN/knopka-tv.jpg",Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
+https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
+http://liveru.cgtn.com/200r/prog_index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" ,Астролог ТВ
+http://api.alpaca.t62a.com/hls/9113/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" ,Большой чемодан
+http://api.alpaca.t62a.com/hls/9115/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
+http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" ,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="TEST ⓵"  tvg-id="fashion-one-4k" tvg-logo="http://epg.it999.ru/img/2748.png",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/5980.png",NASA TV 4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/2801.png",Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+
 
 #EXTINF:-1 group-title="Другое",1Filmax
 https://hls.goodgame.ru/hls/204708_720.m3u8

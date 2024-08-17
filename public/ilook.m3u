@@ -1,4 +1,121 @@
 #EXTM3U
+
+#EXTINF:0 tvg-rec="3",Первый канал (+2)
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/714/index.m3u
+#EXTINF:0 tvg-rec="0",Россия-1 +2
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6011/index.m3u
+#EXTINF:0 tvg-rec="3",Россия 24 +2
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6013/index.m3u
+#EXTINF:0 tvg-rec="3",НТВ (+2)
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/713/index.m3u
+#EXTINF:0 tvg-rec="0",Мир +2
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6019/index.m3u
+#EXTINF:0 tvg-rec="3",Мир 24 HD orig
+#EXTGRP:HD Orig
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/9214/index.m3u
+#EXTINF:0 tvg-rec="7",Дом Кино
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/154/index.m3u
+#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:HD
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/911/index.m3u
+#EXTINF:0 tvg-rec="7",ТВЦ
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/520/index.m3u
+#EXTINF:0 tvg-rec="0",СТС International
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15228/index.m3u
+#EXTINF:0 tvg-rec="0",СТС +2
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6015/index.m3u
+#EXTINF:0 tvg-rec="7",Euronews Россия
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/828/index.m3u
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2064/index.m3u
+#EXTINF:0 tvg-rec="0",Россия РТР
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/18042/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал +4
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6025/index.m3u
+#EXTINF:0 tvg-rec="0",Домашний +2
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6016/index.m3u
+#EXTINF:0 tvg-rec="0",Рен ТВ +4
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6028/index.m3u
+#EXTINF:0 tvg-rec="0",VF Кухня
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/18199/index.m3u
+#EXTINF:0 tvg-rec="3",Киномикс orig
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/9126/index.m3u
+#EXTINF:0 tvg-rec="3",Родное Кино orig
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/9127/index.m3u
+#EXTINF:0 tvg-rec="3",Русский Иллюзион orig
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/9133/index.m3u
+#EXTINF:0 tvg-rec="3",Еврокино orig
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/9134/index.m3u
+#EXTINF:0 tvg-rec="3",Кинохит orig
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/9128/index.m3u
+#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2002/index.m3u
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD (+4)
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/17022/index.m3u
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16154/index.m3u
+#EXTINF:0 tvg-rec="0",Viju TV1000 Action HD (+2)
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16031/index.m3u
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD (+2)
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16030/index.m3u
+#EXTINF:0 tvg-rec="0",Viju TV1000 HD (+2)
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16029/index.m3u
+#EXTINF:0 tvg-rec="7",Кинохит
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/516/index.m3u
+#EXTINF:0 tvg-rec="7",Русский Иллюзион
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/547/index.m3u
+#EXTINF:0 tvg-rec="7",Еврокино
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/549/index.m3u
+#EXTINF:0 tvg-rec="7",Русский роман
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/906/index.m3u
+#EXTINF:0 tvg-rec="7",VF Премьера
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/10051/index.m3u
+#EXTINF:0 tvg-rec="7",VF Мосфильм
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/10084/index.m3u
+#EXTINF:0 tvg-rec="7",VF Фильмы СССР
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/10085/index.m3u
+#EXTINF:0 tvg-rec="7",VF Мультфильмы СССР
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/10086/index.m3u
+#EXTINF:0 tvg-rec="3",ТНТ (+2)
+#EXTGRP:Мое
+http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/717/index.m3u
+
+
 #EXTINF:0 tvg-rec="3",Sky Sports News HQ HD 50 UK
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/9314/index.m3u
@@ -47,9 +164,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/545/index.m3u
 #EXTINF:0 tvg-rec="7",Мир 24
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/712/index.m3u
-#EXTINF:0 tvg-rec="3",НТВ (+2)
-#EXTGRP:новости
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/713/index.m3u
+
 #EXTINF:0 tvg-rec="7",Санкт-Петербург
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/715/index.m3u
@@ -65,9 +180,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/962/index.m3u
 #EXTINF:0 tvg-rec="7",360
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/825/index.m3u
-#EXTINF:0 tvg-rec="7",Euronews Россия
-#EXTGRP:новости
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/828/index.m3u
+
 #EXTINF:0 tvg-rec="7",CGTN
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/830/index.m3u
@@ -86,9 +199,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2008/index.m3u
 #EXTINF:0 tvg-rec="7",Дождь
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2030/index.m3u
-#EXTINF:0 tvg-rec="3",Центральное телевидение
-#EXTGRP:новости
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2064/index.m3u
+
 #EXTINF:0 tvg-rec="3",Вместе-РФ
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2073/index.m3u
@@ -134,9 +245,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15464/index.m3u
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Элиста)
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15443/index.m3u
-#EXTINF:0 tvg-rec="3",Первый канал (+2)
-#EXTGRP:новости
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/714/index.m3u
+
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Белорецк)
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15486/index.m3u
@@ -185,9 +294,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15313/index.m3u
 #EXTINF:0 tvg-rec="0",Россия 1 +1 (Приволжье, Китеж)
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15284/index.m3u
-#EXTINF:0 tvg-rec="0",Россия-1 +2
-#EXTGRP:новости
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6011/index.m3u
+
 #EXTINF:0 tvg-rec="0",Россия 1 +2 (Уфа)
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15302/index.m3u
@@ -245,9 +352,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15468/index.m3u
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Элиста)
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15452/index.m3u
-#EXTINF:0 tvg-rec="3",Россия 24 +2
-#EXTGRP:новости
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/6013/index.m3u
+
 #EXTINF:0 tvg-rec="0",Россия 24 +2 (Пермь)
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/15446/index.m3u
@@ -287,9 +392,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/18038/index.m3u
 #EXTINF:0 tvg-rec="0",Известия FHD
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/18039/index.m3u
-#EXTINF:0 tvg-rec="0",Россия РТР
-#EXTGRP:новости
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/18042/index.m3u
+
 #EXTINF:0 tvg-rec="0",BBC 1 HD
 #EXTGRP:новости
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/19176/index.m3u
@@ -335,24 +438,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2105/index.m3u
 #EXTINF:0 tvg-rec="3",HOT Cinema Family HD IL
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2151/index.m3u
-#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/2002/index.m3u
-#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD (+4)
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/17022/index.m3u
-#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16154/index.m3u
-#EXTINF:0 tvg-rec="0",Viju TV1000 Action HD (+2)
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16031/index.m3u
-#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD (+2)
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16030/index.m3u
-#EXTINF:0 tvg-rec="0",Viju TV1000 HD (+2)
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16029/index.m3u
+
 #EXTINF:0 tvg-rec="0",FX Life Baltic EE
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/16006/index.m3u
@@ -518,9 +604,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/126/index.m3u
 #EXTINF:0 tvg-rec="7",Viju TV1000 Action
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/131/index.m3u
-#EXTINF:0 tvg-rec="7",Кинохит
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/516/index.m3u
+
 #EXTINF:0 tvg-rec="7",Amedia 2
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/510/index.m3u
@@ -539,21 +623,14 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/146/index.m3u
 #EXTINF:0 tvg-rec="7",Киносерия
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/148/index.m3u
-#EXTINF:0 tvg-rec="7",Русский Иллюзион
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/547/index.m3u
-#EXTINF:0 tvg-rec="7",Еврокино
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/549/index.m3u
+
 #EXTINF:0 tvg-rec="7",Кинеко
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/550/index.m3u
 #EXTINF:0 tvg-rec="7",Сапфир
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/553/index.m3u
-#EXTINF:0 tvg-rec="7",Дом Кино
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/154/index.m3u
+
 #EXTINF:0 tvg-rec="7",Amedia 1
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/554/index.m3u
@@ -584,9 +661,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/708/index.m3u
 #EXTINF:0 tvg-rec="7",Русский бестселлер
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/905/index.m3u
-#EXTINF:0 tvg-rec="7",Русский роман
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/906/index.m3u
+
 #EXTINF:0 tvg-rec="7",Русский детектив
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/907/index.m3u
@@ -735,9 +810,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/7222/index.m3u
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/7230/index.m3u
 #EXTINF:0 tvg-rec="0",Sky Romance TV FHD DE
-#EXTGRP:кино
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/7231/index.m3u
-#EXTINF:0 tvg-rec="0",Киносемья HD
+
 #EXTGRP:кино
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/7244/index.m3u
 #EXTINF:0 tvg-rec="0",Киносвидание HD
@@ -4823,9 +4896,7 @@ http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/514/index.m3u
 #EXTINF:0 tvg-rec="7",ТНВ-Планета
 #EXTGRP:другие
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/515/index.m3u
-#EXTINF:0 tvg-rec="7",ТВЦ
-#EXTGRP:другие
-http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/520/index.m3u
+
 #EXTINF:0 tvg-rec="7",Da Vinci
 #EXTGRP:другие
 http://tpo8h1fj.megogo.xyz/iptv/66HL2YL585KRP2/537/index.m3u

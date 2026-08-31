@@ -5,6 +5,9 @@ https://stream8.cinerama.uz/1019/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+3)
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="RussiaRTR.ru@SD",Россия РТР
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_1.m3u8
+
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+5)
 https://stream8.cinerama.uz/1020/playlist.m3u8
 
@@ -19,12 +22,10 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 
 #EXTINF:-1 tvg-id="Ozbekiston24.uz@SD",O'zbekiston 24 (1080p)
 https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Ozbekiston.uz@SD",O'zbekiston (576p)
-https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия К
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
-#EXTINF:0 tvg-rec="0",ТВЦ +4
-http://tpo8h1fj.megogo.xyz/iptv/XPGMG3SLMKQ9Z3PW3AKMBF7B/6027/index.m3u
